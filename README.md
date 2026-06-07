@@ -243,6 +243,3 @@ Summary:
   Degradation detected: True
 ```
 
-## Contact
-
-For questions or issues, please refer to the project documentation or contact the development team.
