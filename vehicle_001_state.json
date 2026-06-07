@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "vehicle_001",
+  "last_updated": "2026-06-07T12:10:54.196894",
+  "total_drives": 20,
+  "current_health_score": 54.29209881552224,
+  "baseline_health_score": 80.10833438105522,
+  "health_trend": "degrading",
+  "last_anomaly": "SPC anomaly: score 54.3 below 3-sigma limit 60.1",
+  "degradation_detected": true,
+  "degradation_drive_index": 10,
+  "risk_index": 0.30811993614097066,
+  "drives_to_failure": 0
+}
